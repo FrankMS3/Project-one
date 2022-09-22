@@ -19,3 +19,8 @@ Tenant Preferred: Type of Tenant Preferred by the Owner or Agent.
 Bathroom: Number of Bathrooms.
 
 Point of Contact: Whom should you contact for more information regarding the Houses/Apartments/Flats.
+
+
+-------------------------------------
+All of the above was provided with the dataset on Kaggle.
+The uploader doesn't state anywhere what units Rental Price is measured in, but we presume it is in Indian Rupees.
