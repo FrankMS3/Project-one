@@ -3,7 +3,9 @@
 To get started: Add a file named "config.py" into the main directory (the same folder as the two house_rental.ipynb files).  
 In this folder, include your API key in the format of: pop_key = "Your API Key". Save this file.  
 API can be found at: https://api-ninjas.com/api/city  
-To get an API key: make an account on the above site, log in and click on "My Account". Then, underneath the "API Key" subheading, click "Show API Key".  
+To get an API key: make an account on the above site, log in and click on "My Account". Then, underneath the "API Key" subheading, click "Show API Key".
+  
+A glossary for terms used in the dataset and throughout the analysis is included in the Resources folder.  
   
 Note: We assume that Rental Price is measured in Indian Rupees - but the original author doesn't actually state anywhere the units used for it.  
   
