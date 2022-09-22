@@ -5,6 +5,9 @@ In this folder, include your API key in the format of: pop_key = "Your API Key".
 API can be found at: https://api-ninjas.com/api/city  
 To get an API key: make an account on the above site, log in and click on "My Account". Then, underneath the "API Key" subheading, click "Show API Key".
   
+Run the script found in "house_rental - CleanUp.ipynb" first, to clean the dataset found in "House_Rent_Dataset.csv" (in the Resources folder) and export a cleaned dataset as "rental_clean.csv" to the Analysis folder.  
+Then run the script found in "house_rental - Analysis.ipynb", to analyse this cleaned data, figures will be exported into the Plots folder and results of statistical analyses will be printed within the .ipynb file.  
+  
 A glossary for terms used in the dataset and throughout the analysis is included in the Resources folder.  
   
 Note: We assume that Rental Price is measured in Indian Rupees - but the original author doesn't actually state anywhere the units used for it.  
